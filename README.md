@@ -1,4 +1,4 @@
-Sorting data by certain criteria, groups 
+Sorting data by certain criteria, groups
 Clearing the doubles in the database
 Data consolidation 
 Definitions of the ranges of the persentli
